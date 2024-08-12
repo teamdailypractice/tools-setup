@@ -1,6 +1,13 @@
 # Download Youtube video or audio
 
-[yt-dlp github](https://github.com/yt-dlp/yt-dlp)
+If I have a computer (Laptop/Desktop), and broadband internet connection
+
+* How do I download video so that I can listen and watch offline?
+* How do I convert video to audio so that I can listen?
+
+Why?
+
+* **I might repeatedly learn/listen. so it is better to download and keep it offline**
 
 ## Setup in windows
 
