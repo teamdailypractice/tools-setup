@@ -16,7 +16,7 @@
 * `conda config --set report_errors false`
 * `conda update conda`
 
-## Creating venv using conda
+## Creating venv using conda and install necessary packages in that venv
 
 * `conda create --name tamil-pdf-ocr`
 * `conda activate tamil-pdf-ocr`
@@ -25,3 +25,11 @@
 * `conda install -c anaconda ipython`
 * `conda install -c anaconda ipykernel`
 * Add kernel to the new environment. - `python -m ipykernel install --user --name tamil-pdf-ocr --display-name 'pykernel-1'`
+* conda install -c anaconda matplotlib
+## Start the POC - using Jupyter lab
+
+* Jupyterlab home directory
+* jupyterlab-workspace configuration file
+* 
+
+## 
