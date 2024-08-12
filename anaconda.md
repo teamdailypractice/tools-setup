@@ -26,10 +26,9 @@
 * `conda install -c anaconda ipykernel`
 * Add kernel to the new environment. - `python -m ipykernel install --user --name tamil-pdf-ocr --display-name 'pykernel-1'`
 * conda install -c anaconda matplotlib
+
 ## Start the POC - using Jupyter lab
 
 * Jupyterlab home directory
 * jupyterlab-workspace configuration file
-* 
 
-## 
