@@ -7,11 +7,13 @@ If I have a computer (Laptop/Desktop), and broadband internet connection
 
 Why?
 
+* **No ADS** = No Distraction while studying
+* **If essential for my studies, interview or exams, better to keep it offline**
+* **I might repeatedly learn/listen. so it is better to download and keep it offline**
 * In India, not all places have good speed internet connection.
 * Even in cities broadband outage happens in the evening sometimes
-* **If essential for my studies, interview or exams, better to keep it offline**
 * **Don't expect 100% online in India. It doesn't work. Powercut also happens**
-* **I might repeatedly learn/listen. so it is better to download and keep it offline**
+
 
 ## Setup in windows
 
